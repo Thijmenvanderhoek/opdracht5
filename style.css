@@ -1,0 +1,47 @@
+
+div {
+    margin: 30px;
+    border: 1px solid #4CAF50;
+  }
+
+header
+{
+ font-style: italic;
+ font-size: smaller;
+
+}
+
+
+main
+{border: 2px solid #4CAF50;
+margin: 30px;
+}
+
+.text
+{
+    padding-left: 20%;
+}
+
+.div1
+
+{
+    margin: 10px;
+    padding: 20px;
+
+}
+
+.afsluiting
+
+{
+    border: 5px solid #4CAF50;
+    margin: 5px        ;
+    padding: 10px;
+}
+
+.link li
+{display: inline;
+margin: 100px;
+padding: 10px;
+
+}
+
